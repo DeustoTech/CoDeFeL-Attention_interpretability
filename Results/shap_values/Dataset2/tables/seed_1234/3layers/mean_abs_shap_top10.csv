@@ -1,0 +1,11 @@
+rank,feature,mean_abs_shap
+1,egfr_ml_min,0.90651471
+2,creatinine_mgdl,0.14851181
+3,albumin_gdl,0.00653172
+4,y_rbc_10^12_per_L,0.00528162
+5,smoker,0.00434382
+6,iron_ugdl,0.00384986
+7,wbc_10^9_per_L,0.00378379
+8,vitamin_b12_pgml,0.00367432
+9,physical_activity_level,0.00295471
+10,alcohol_units_per_week,0.00293667

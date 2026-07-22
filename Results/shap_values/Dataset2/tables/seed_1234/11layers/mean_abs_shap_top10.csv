@@ -1,0 +1,11 @@
+rank,feature,mean_abs_shap
+1,egfr_ml_min,0.91130477
+2,creatinine_mgdl,0.16834367
+3,folate_ngml,0.00470647
+4,albumin_gdl,0.00452878
+5,crp_mgL,0.00380400
+6,dbp_mmHg,0.00362835
+7,y_rbc_10^12_per_L,0.00361619
+8,wbc_10^9_per_L,0.00344385
+9,smoker,0.00340396
+10,iron_ugdl,0.00332641

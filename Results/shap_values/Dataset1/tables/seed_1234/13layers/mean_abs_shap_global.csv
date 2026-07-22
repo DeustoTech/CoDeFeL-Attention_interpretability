@@ -1,0 +1,73 @@
+rank,feature,mean_abs_shap
+1,BCAA to AAA (Phe+Tyr) ratio (unitless),0.03399577
+2,Sarcosine (mM),0.03072819
+3,3-Hydroxyisobutyric acid (mM),0.03038977
+4,Urea to creatinine ratio (unitless),0.02732515
+5,Citric acid (mM),0.02640142
+6,Glucose (mM),0.02443592
+7,Threonine (mM),0.02431890
+8,Aspartate (mM),0.02431845
+9,Lactic acid (mM),0.02399522
+10,Dimethylamine (mM),0.02251847
+11,GlycB to GlycA ratio (unitless),0.02149498
+12,SPC (mM),0.01985027
+13,2-Aminobutyric acid (mM),0.01963318
+14,Myo-inositol (mM),0.01958924
+15,Triglycerides (mg/dl),0.01900480
+16,Cystine (mM),0.01870715
+17,Glutamine (mM),0.01682619
+18,Succinic acid (mM),0.01633181
+19,Alanine (mM),0.01613176
+20,Choline (mM),0.01584971
+21,Glycerol (mM),0.01581920
+22,Apolipoprotein B (mg/ml),0.01575394
+23,Transferrin (mg/dl),0.01504492
+24,Lactate to pyruvate ratio (unitless),0.01499679
+25,Bilirubin (mg/dl),0.01488599
+26,Phenylalanine (mM),0.01471862
+27,Glutamine to glutamate ratio (unitless),0.01447918
+28,Acetoacetic acid (mM),0.01403353
+29,LDL cholesterol (mg/dl),0.01370838
+30,Tyrosine (mM),0.01366275
+31,Creatine (mM),0.01324996
+32,Leucine (mM),0.01317544
+33,Estimated Glomerular Filtration Rate (ml/min/1.73m²),0.01260304
+34,Non-albumin protein (g/dl),0.01060792
+35,HDL cholesterol (mg/dl),0.01056604
+36,Acetone (mM),0.01028288
+37,Arginine (mM),0.01005723
+38,Erythrocyte sedimentation rate (mm/h),0.00982752
+39,Urate (mg/dl),0.00928839
+40,Urea (mg/dl),0.00909233
+41,Betaine (mM),0.00905849
+42,2-Oxoglutaric acid (mM),0.00897023
+43,Iron (µg/dl),0.00887418
+44,Proline (mM),0.00869674
+45,Ornithine (mM),0.00835839
+46,C reactive protein (mg/dl),0.00833602
+47,2-Hydroxybutyric acid (mM),0.00830165
+48,Creatinine (mM),0.00808736
+49,Serine (mM),0.00788269
+50,Methionine (mM),0.00781264
+51,Calcium (mg/dl),0.00780964
+52,Asparagine (mM),0.00770766
+53,Glyc A (mM),0.00699857
+54,Leukocytes (G/l),0.00698172
+55,Lipoprotein(a) (mg/dl),0.00661695
+56,Formic acid (mM),0.00627371
+57,Pyruvic acid (mM),0.00610555
+58,Erythrocytes (T/l),0.00608208
+59,Lysine (mM),0.00599547
+60,Histidine (mM),0.00572038
+61,Platelets (G/l),0.00510880
+62,"1,5-Anhydrosorbitol (mM)",0.00507550
+63,Glutamic acid (mM),0.00490648
+64,Glycine (mM),0.00453530
+65,D-Galactose (mM),0.00444975
+66,Acetic acid (mM),0.00395723
+67,Albumin (g/dl),0.00367449
+68,Methanol (mM),0.00347513
+69,"N,N-Dimethylglycine (mM)",0.00334666
+70,Ethanol (mM),0.00313202
+71,Trimethylamine-N-oxide (mM),0.00265203
+72,Dimethylsulfone (mM),0.00049388

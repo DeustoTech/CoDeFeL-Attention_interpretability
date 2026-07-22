@@ -1,0 +1,11 @@
+rank,feature,mean_abs_shap
+1,2-Oxoglutaric acid (mM),0.08355427
+2,Histidine (mM),0.05753552
+3,Sarcosine (mM),0.05199144
+4,"1,5-Anhydrosorbitol (mM)",0.04536407
+5,Glutamic acid (mM),0.04446520
+6,Myo-inositol (mM),0.03951094
+7,Leukocytes (G/l),0.03851237
+8,Succinic acid (mM),0.03828483
+9,Apolipoprotein B (mg/ml),0.03757250
+10,LDL cholesterol (mg/dl),0.03746296

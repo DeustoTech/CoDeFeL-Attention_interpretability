@@ -1,0 +1,73 @@
+rank,feature,mean_abs_shap
+1,D-Galactose (mM),0.04672639
+2,Non-albumin protein (g/dl),0.03467954
+3,Glutamine (mM),0.03248377
+4,Tyrosine (mM),0.03242763
+5,Alanine (mM),0.03213456
+6,Arginine (mM),0.03115950
+7,Transferrin (mg/dl),0.02724473
+8,Succinic acid (mM),0.02540018
+9,Glycine (mM),0.02225241
+10,2-Aminobutyric acid (mM),0.02153827
+11,SPC (mM),0.02074057
+12,Formic acid (mM),0.01942873
+13,Myo-inositol (mM),0.01910216
+14,Triglycerides (mg/dl),0.01836438
+15,Lactic acid (mM),0.01823393
+16,Urea (mg/dl),0.01811917
+17,Bilirubin (mg/dl),0.01780164
+18,Urea to creatinine ratio (unitless),0.01735231
+19,Glutamine to glutamate ratio (unitless),0.01670960
+20,Aspartate (mM),0.01608561
+21,Calcium (mg/dl),0.01508786
+22,Citric acid (mM),0.01505139
+23,Histidine (mM),0.01499305
+24,Leucine (mM),0.01443729
+25,Lactate to pyruvate ratio (unitless),0.01316397
+26,Erythrocytes (T/l),0.01257685
+27,Apolipoprotein B (mg/ml),0.01251484
+28,Leukocytes (G/l),0.01249266
+29,Phenylalanine (mM),0.01177939
+30,Proline (mM),0.01134985
+31,Lysine (mM),0.01078317
+32,Platelets (G/l),0.01074441
+33,Erythrocyte sedimentation rate (mm/h),0.01061988
+34,Pyruvic acid (mM),0.01054225
+35,Glyc A (mM),0.01013535
+36,Dimethylamine (mM),0.00870846
+37,Creatine (mM),0.00852690
+38,Creatinine (mM),0.00850664
+39,Ornithine (mM),0.00842253
+40,2-Hydroxybutyric acid (mM),0.00837426
+41,Acetoacetic acid (mM),0.00827268
+42,Urate (mg/dl),0.00760887
+43,Acetone (mM),0.00745739
+44,Choline (mM),0.00711940
+45,HDL cholesterol (mg/dl),0.00705400
+46,Iron (µg/dl),0.00694413
+47,Glycerol (mM),0.00692979
+48,Serine (mM),0.00681487
+49,Glutamic acid (mM),0.00663200
+50,Methionine (mM),0.00656531
+51,BCAA to AAA (Phe+Tyr) ratio (unitless),0.00644410
+52,Asparagine (mM),0.00607933
+53,Sarcosine (mM),0.00588821
+54,Albumin (g/dl),0.00557004
+55,Threonine (mM),0.00530749
+56,GlycB to GlycA ratio (unitless),0.00525620
+57,Lipoprotein(a) (mg/dl),0.00503672
+58,"1,5-Anhydrosorbitol (mM)",0.00499730
+59,Cystine (mM),0.00482049
+60,Betaine (mM),0.00439904
+61,3-Hydroxyisobutyric acid (mM),0.00430630
+62,Glucose (mM),0.00419601
+63,Estimated Glomerular Filtration Rate (ml/min/1.73m²),0.00410523
+64,Trimethylamine-N-oxide (mM),0.00392275
+65,2-Oxoglutaric acid (mM),0.00378843
+66,LDL cholesterol (mg/dl),0.00314031
+67,C reactive protein (mg/dl),0.00311279
+68,Methanol (mM),0.00267559
+69,Acetic acid (mM),0.00240946
+70,Ethanol (mM),0.00181314
+71,"N,N-Dimethylglycine (mM)",0.00147478
+72,Dimethylsulfone (mM),0.00072323

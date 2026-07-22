@@ -1,0 +1,73 @@
+feature,score,original_position
+"1,5-Anhydrosorbitol (mM)",1.150751,0
+2-Aminobutyric acid (mM),0.826079,1
+2-Hydroxybutyric acid (mM),0.785183,2
+2-Oxoglutaric acid (mM),0.746636,3
+3-Hydroxyisobutyric acid (mM),1.182833,4
+Acetic acid (mM),0.825666,5
+Acetoacetic acid (mM),0.888521,6
+Acetone (mM),0.826007,7
+Alanine (mM),1.006561,8
+Albumin (g/dl),1.405996,9
+Apolipoprotein B (mg/ml),0.954056,10
+Arginine (mM),0.802504,11
+Asparagine (mM),1.010797,12
+Aspartate (mM),0.840419,13
+BCAA to AAA (Phe+Tyr) ratio (unitless),0.852996,14
+Betaine (mM),0.883243,15
+Bilirubin (mg/dl),0.889233,16
+C reactive protein (mg/dl),1.403641,17
+Calcium (mg/dl),1.146860,18
+Choline (mM),1.003642,19
+Citric acid (mM),1.248522,20
+Creatine (mM),0.969118,21
+Creatinine (mM),1.211696,22
+Cystine (mM),1.319534,23
+D-Galactose (mM),0.828524,24
+Dimethylamine (mM),0.766876,25
+Dimethylsulfone (mM),1.545915,26
+Erythrocyte sedimentation rate (mm/h),1.488426,27
+Erythrocytes (T/l),1.204038,28
+Estimated Glomerular Filtration Rate (ml/min/1.73m²),1.035939,29
+Ethanol (mM),0.923873,30
+Formic acid (mM),0.948301,31
+Glucose (mM),1.254684,32
+Glutamic acid (mM),1.000053,33
+Glutamine (mM),0.994350,34
+Glutamine to glutamate ratio (unitless),0.887715,35
+Glyc A (mM),0.912131,36
+GlycB to GlycA ratio (unitless),1.066988,37
+Glycerol (mM),0.877632,38
+Glycine (mM),1.042246,39
+HDL cholesterol (mg/dl),0.980746,40
+Histidine (mM),0.756520,41
+Iron (µg/dl),0.892987,42
+LDL cholesterol (mg/dl),1.537858,43
+Lactate to pyruvate ratio (unitless),0.907160,44
+Lactic acid (mM),0.922576,45
+Leucine (mM),1.039658,46
+Leukocytes (G/l),1.065872,47
+Lipoprotein(a) (mg/dl),0.887928,48
+Lysine (mM),0.880666,49
+Methanol (mM),1.038050,50
+Methionine (mM),0.842016,51
+Myo-inositol (mM),0.924353,52
+"N,N-Dimethylglycine (mM)",0.933209,53
+Non-albumin protein (g/dl),0.806453,54
+Ornithine (mM),1.115579,55
+Phenylalanine (mM),0.841877,56
+Platelets (G/l),0.899564,57
+Proline (mM),0.868072,58
+Pyruvic acid (mM),0.799402,59
+SPC (mM),1.200466,60
+Sarcosine (mM),0.876852,61
+Serine (mM),1.024830,62
+Succinic acid (mM),0.878869,63
+Threonine (mM),0.958482,64
+Transferrin (mg/dl),0.877795,65
+Triglycerides (mg/dl),1.075694,66
+Trimethylamine-N-oxide (mM),0.841820,67
+Tyrosine (mM),1.060515,68
+Urate (mg/dl),1.187345,69
+Urea (mg/dl),1.112446,70
+Urea to creatinine ratio (unitless),1.006155,71

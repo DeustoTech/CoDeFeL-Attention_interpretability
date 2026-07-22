@@ -1,0 +1,73 @@
+rank,feature,mean_abs_shap
+1,Leucine (mM),0.02695926
+2,BCAA to AAA (Phe+Tyr) ratio (unitless),0.01652555
+3,Glutamine to glutamate ratio (unitless),0.01488147
+4,Choline (mM),0.01486034
+5,Erythrocytes (T/l),0.01431317
+6,Urea (mg/dl),0.01376245
+7,Transferrin (mg/dl),0.01284937
+8,Formic acid (mM),0.01246912
+9,Sarcosine (mM),0.01246693
+10,Methionine (mM),0.01239616
+11,Histidine (mM),0.01223245
+12,Apolipoprotein B (mg/ml),0.01127552
+13,Citric acid (mM),0.01059007
+14,HDL cholesterol (mg/dl),0.00965824
+15,Lipoprotein(a) (mg/dl),0.00908342
+16,Iron (µg/dl),0.00887423
+17,Aspartate (mM),0.00885705
+18,Leukocytes (G/l),0.00835211
+19,Urea to creatinine ratio (unitless),0.00786225
+20,GlycB to GlycA ratio (unitless),0.00745305
+21,Platelets (G/l),0.00731290
+22,Creatinine (mM),0.00722611
+23,Erythrocyte sedimentation rate (mm/h),0.00714444
+24,Lactate to pyruvate ratio (unitless),0.00712530
+25,Pyruvic acid (mM),0.00642591
+26,Calcium (mg/dl),0.00629817
+27,Serine (mM),0.00626486
+28,Myo-inositol (mM),0.00619160
+29,Non-albumin protein (g/dl),0.00615703
+30,Urate (mg/dl),0.00611177
+31,Phenylalanine (mM),0.00583815
+32,Bilirubin (mg/dl),0.00580069
+33,Glycine (mM),0.00566542
+34,Trimethylamine-N-oxide (mM),0.00565484
+35,Creatine (mM),0.00559723
+36,Dimethylamine (mM),0.00552069
+37,"1,5-Anhydrosorbitol (mM)",0.00532664
+38,SPC (mM),0.00512834
+39,Triglycerides (mg/dl),0.00512281
+40,Glucose (mM),0.00501711
+41,Lysine (mM),0.00500468
+42,Asparagine (mM),0.00496000
+43,Betaine (mM),0.00475945
+44,Glutamic acid (mM),0.00475287
+45,D-Galactose (mM),0.00474497
+46,Methanol (mM),0.00469590
+47,Albumin (g/dl),0.00467054
+48,LDL cholesterol (mg/dl),0.00457656
+49,Threonine (mM),0.00453873
+50,Alanine (mM),0.00448247
+51,Lactic acid (mM),0.00439439
+52,2-Hydroxybutyric acid (mM),0.00438295
+53,Proline (mM),0.00434109
+54,Acetone (mM),0.00434072
+55,2-Oxoglutaric acid (mM),0.00415936
+56,Arginine (mM),0.00390137
+57,Glyc A (mM),0.00369984
+58,2-Aminobutyric acid (mM),0.00368250
+59,Tyrosine (mM),0.00351978
+60,Ornithine (mM),0.00336911
+61,Glycerol (mM),0.00325858
+62,Glutamine (mM),0.00306121
+63,Succinic acid (mM),0.00303328
+64,Cystine (mM),0.00284186
+65,C reactive protein (mg/dl),0.00279448
+66,Ethanol (mM),0.00269900
+67,Estimated Glomerular Filtration Rate (ml/min/1.73m²),0.00266811
+68,3-Hydroxyisobutyric acid (mM),0.00263580
+69,"N,N-Dimethylglycine (mM)",0.00255902
+70,Acetic acid (mM),0.00251395
+71,Acetoacetic acid (mM),0.00236564
+72,Dimethylsulfone (mM),0.00110888
