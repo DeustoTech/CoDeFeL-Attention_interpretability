@@ -3,7 +3,8 @@
 This repository accompanies the paper [*Interior interpretability with attention rollout: contraction and propagation profiles in Transformers*](https://arxiv.org/abs/2607.22367).
 It contains the code used to train tabular Transformer regressors for age prediction and to analyse how their self-attention patterns accumulate across layers. The project studies a metabolomic age-prediction cohort (Dataset 1, available subject to authorization) and a fully included synthetic tabular dataset (Dataset 2).
 
-Rather than using attention as an explanation of a model prediction, the repository treats attention rollout as a diagnostic of **attention-mediated propagation** between feature tokens. It also includes PCA and SHAP GradientExplainer analyses, which provide complementary variance-based and prediction-attribution viewpoints.
+We apply the **attention rollout** construction as a diagnostic of attention-mediated propagation between feature tokens. 
+It also includes PCA and SHAP GradientExplainer analyses, which provide complementary variance-based and prediction-attribution viewpoints.
 
 ## Motivation
 
